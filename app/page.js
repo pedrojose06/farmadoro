@@ -2,11 +2,7 @@
 export default function Home({ formattedDate }) {
   return (
     <>
-      <h1>Static page</h1>
-      <p>This page is static. It was built on {formattedDate}.</p>
-      <p>
-        <a href="/ssr">View a server-side rendered page.</a>
-      </p>
+      <h1>Rodrigáo Safado</h1>
     </>
   );
 }
